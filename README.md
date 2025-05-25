@@ -100,7 +100,6 @@ Editar
 
 ---
 
-Se quiser que eu gere esse `README.md` diretamente para colar no GitHub ou preparar o `git commit` com ele, posso fazer também. Deseja isso?
 
 
 
