@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-upload",["= 0.0.1"]]],"checksum":"6b0c701a1e68b39f11b67a6c0c32aaa7a1aa0421a16a9426b52d9a9daa77062c","vagrant_version":"2.4.6"}
